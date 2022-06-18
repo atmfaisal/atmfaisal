@@ -5,7 +5,7 @@
 - I am Abu Toha Md Faisal.
 - 📫 Contact me faisal2408rcc@gmail.com
 
-<img align="right" alt="GIF" src="https://github.com/atmfaisal/atmfaisal/blob/main/programmer.gif" width="498" height="312" />
+<img align="center" alt="GIF" src="https://github.com/atmfaisal/atmfaisal/blob/main/programmer.gif" width="498" height="312" />
 
 <br />
 
