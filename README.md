@@ -2,11 +2,19 @@
 
 <br />
 
-- I am Abu Toha Md Faisal.
+- I am **Abu Toha Md Faisal**.
+- I’m currently working as **Machine Learning Engineer @ Obboy Labs Ltd.**
 - 📫 Contact me faisal2408rcc@gmail.com
 
 <img align="center" alt="GIF" src="https://github.com/atmfaisal/atmfaisal/blob/main/programmer.gif" width="498" height="312" />
 
 <br />
 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=atmfaisal.atmfaisal)
+
+<details>
+<summary> ⚡️ More about Me and my coding life</summary>
+<br />
+<a href="https://www.linkedin.com/in/atmfaisal"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</details>
