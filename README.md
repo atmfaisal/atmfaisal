@@ -3,7 +3,7 @@
 <br />
 
 - I am **Abu Toha Md Faisal**.
-- I’m currently working as **Machine Learning Engineer @ Obboy Labs Ltd.**
+- I’m currently working as **Machine Learning Engineer @ Anchorblock Technology**
 - 📫 Contact me faisal2408rcc@gmail.com
 
 <img align="center" alt="GIF" src="https://github.com/atmfaisal/atmfaisal/blob/main/programmer.gif" width="498" height="312" />
